@@ -3,9 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Kwon%20Gwangjae&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=55&descSize=20)
 
 </div>
-
-<br/>
-
 ## About Me
 
 ```java
@@ -35,7 +32,6 @@ public class BackendDeveloper {
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
 
-<br/><br/>
 
 ### Database & Cache
 
@@ -45,7 +41,6 @@ public class BackendDeveloper {
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 
-<br/><br/>
 
 ### Frontend
 
@@ -55,7 +50,6 @@ public class BackendDeveloper {
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
-<br/><br/>
 
 ### DevOps & Infra
 
@@ -66,7 +60,6 @@ public class BackendDeveloper {
 <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 
-<br/><br/>
 
 ### Documentation & Testing
 
@@ -94,8 +87,6 @@ public class BackendDeveloper {
 - 관심 매물 알림
 - 70% 테스트 커버리지
 
-<br/>
-
 ### UJAX
 > 백준 알고리즘 스터디 플랫폼
 
@@ -105,8 +96,6 @@ public class BackendDeveloper {
 - Monaco 코드 에디터
 - 백준 연동 Chrome Extension
 
-<br/>
-
 ### DreamValut
 > 음악 스트리밍 플랫폼
 
@@ -115,8 +104,6 @@ public class BackendDeveloper {
 - 음악 업로드/스트리밍
 - 플레이리스트, 좋아요
 - 실시간 검색
-
-<br/>
 
 ---
 
