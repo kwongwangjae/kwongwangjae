@@ -42,16 +42,6 @@ public class BackendDeveloper {
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 
-
-### Frontend
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
-
 ### DevOps & Infra
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -66,9 +56,6 @@ public class BackendDeveloper {
 
 <img src="https://img.shields.io/badge/REST_Docs-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JaCoCo-C21325?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
@@ -106,21 +93,6 @@ public class BackendDeveloper {
 - 플레이리스트, 좋아요
 - 실시간 검색
 
----
-
-## Core Competencies
-
-```
-- Spring Boot 기반 RESTful API 설계 및 개발
-- Spring Security + OAuth2 기반 인증/인가 구현
-- Spring Batch를 활용한 대용량 데이터 처리
-- JPA/QueryDSL을 활용한 데이터 접근 계층 설계
-- Redis/Elasticsearch를 활용한 캐싱 및 검색 최적화
-- REST Docs/Swagger를 활용한 API 문서화
-- JaCoCo를 활용한 테스트 커버리지 관리
-- Docker/Terraform을 활용한 인프라 구성
-- GitHub Actions를 활용한 CI/CD 파이프라인 구축
-```
 
 <br/>
 
