@@ -14,6 +14,9 @@ public class BackendDeveloper {
 }
 ```
 
+  > 📝 **Blog** · [devlog.world](https://devlog.world)                                                     
+  > 매일 개발하며 배우는 것들을 기록합니다.   
+
 <br/>
 
 ---
