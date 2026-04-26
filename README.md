@@ -1,9 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Kwon%20Gwangjae&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=55&descSize=20)
-
-</div>
-
 ## About Me
 
 ```java
@@ -100,9 +94,3 @@ public class BackendDeveloper {
 <br/>
 
 ---
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
-
-</div>
